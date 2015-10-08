@@ -1,0 +1,10 @@
+Package: myr
+Type: Package
+Title: My R functions
+Version: 0.1.6
+Date: 2015-09-16
+Author: Alexander "Sasha" Keyel
+Maintainer: Sasha Keyel <skeyel@gmail.com>
+Description: These are functions I frequently use and would like to avoid
+    always having to recode.
+License: GPL (>= 2)

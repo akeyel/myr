@@ -1,0 +1,14 @@
+#Changes in Version 0.1.6
+Added a function to avoid the matrix-reformatting problem (where a single column matrix is stripped of its matrix formatting)
+
+#Changes in Version 0.1.5.9999
+Removed helper functions for be_sdm project.
+Modified threshold.recode function to be more intuitive.
+Added as.char function (likely much to Sten's dismay!)
+
+#Changes in Version 0.1.5 (never compiled)
+Added helper functions for be_sdm project to myr (they may be removed later)
+
+#Changes in Version 0.1.4
+Converted myr.r script to an R package
+Changed t.recode to th.recode. This is not a backwards-compatible change!
